@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daltong95
-- 👀 I’m interested in ... Video Games, VFX, Programming, Drawing, Music, Cooking, Battletech, 
+- 👀 I’m interested in ... Computers, Coding,  
 - 🌱 I’m currently learning ... Full Stack Development and Mobile Architect and programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
